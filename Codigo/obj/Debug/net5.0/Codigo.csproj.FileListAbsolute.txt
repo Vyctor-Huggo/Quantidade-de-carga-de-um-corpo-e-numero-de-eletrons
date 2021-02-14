@@ -1,0 +1,16 @@
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\bin\Debug\net5.0\Codigo.exe
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\bin\Debug\net5.0\Codigo.deps.json
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\bin\Debug\net5.0\Codigo.runtimeconfig.json
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\bin\Debug\net5.0\Codigo.runtimeconfig.dev.json
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\bin\Debug\net5.0\Codigo.dll
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\bin\Debug\net5.0\ref\Codigo.dll
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\bin\Debug\net5.0\Codigo.pdb
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\obj\Debug\net5.0\Codigo.csprojAssemblyReference.cache
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\obj\Debug\net5.0\Codigo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\obj\Debug\net5.0\Codigo.AssemblyInfoInputs.cache
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\obj\Debug\net5.0\Codigo.AssemblyInfo.cs
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\obj\Debug\net5.0\Codigo.csproj.CoreCompileInputs.cache
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\obj\Debug\net5.0\Codigo.dll
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\obj\Debug\net5.0\ref\Codigo.dll
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\obj\Debug\net5.0\Codigo.pdb
+D:\Projetos\Repositórios GitHub\Quantidade-de-carga-de-um-corpo-e-numero-de-eletrons\Codigo\obj\Debug\net5.0\Codigo.genruntimeconfig.cache
