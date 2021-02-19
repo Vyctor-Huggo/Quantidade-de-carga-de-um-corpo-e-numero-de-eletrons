@@ -7,8 +7,8 @@ namespace Codigo
         public static Char[] delimitadores = { '.', 'x', 'e', '^' };
         static void Main()
         {
-            Console.WriteLine("[1] Para calcular a [Quantidade de Elétrons] (Q = n.e)");
-            Console.WriteLine("[2] Para calcular o [Número de Elétrons] (n = Q/e)");
+            Console.WriteLine("[1] Para calcular a [Quantidade de carga do matérial] (Q = n.e)");
+            Console.WriteLine("[2] Para calcular o [Número de Elétrons transferidos] (n = Q/e)");
             Console.Write("O que você deseja: "); 
             int X = Convert.ToInt32(Console.ReadLine());
             switch (X)
@@ -105,8 +105,7 @@ namespace Codigo
 
                 if(a < 0)
                 {
-                    Console.WriteLine($"N = {-1*a:f2}.{c}^{b} C");
-                    Console.WriteLine("Ganha");
+                    Console.WriteLine($"N = {-1*a:f2}.{c}^{b} C" + "Ganha");
                 }
                 else
                 {
