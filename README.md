@@ -50,6 +50,22 @@ Aprecerá assim para você:
 
 7. E pronto o código será compilado pelo site e você já poderá usa-lo
 
+# Funcionamento do código:
+
+Primeiro ele te perguntará se você quer calcular o valor da __Quantidade de carga do material__ (escreva 1 e aperte enter)
+ou o __Número de elétrons transferidos__ (escreva 2 e aperte enter)
+
+__CASO VOCÊ ESCREVA 1__
+
+Ele te pergutará o valor de N (escreva em notação cientifica utilizando __.__ para multiplicação e __^__ ou __e__ para elevado)
+depois disso ele te perguntará se o corpo ganha ou perde elétrons *no enunciado de qualquer questão referente a essa conta é falado isso*
+(escreva __ganha__ ou __g__ caso ele ganhe e __perde__ ou __p__ caso ele perca) e ao final ele te dará a conta e o resultado com o valor de __Q__
+
+__CASO VOCÊ ESCREVA 2__
+
+Primeiro ele te perguntará se você quer calcular o valor de Q (escreva em notação cientifica utilizando __.__ para multiplicação e __^__ ou __e__ para elevado)
+__NÃO ESQUECE DE COLOCAR O SINAL DE (+) CASO POSITIVO E (-) CASO NEGATIVO__ ao final ele te dará a conta e o resultado com o valor de __N__
+
 # Caso o código não funcione
 
 Primeiro certifique-se que você fez todos os passos corretamente.
