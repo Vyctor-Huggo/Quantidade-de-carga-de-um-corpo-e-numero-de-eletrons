@@ -1,6 +1,6 @@
 # Quantidade de carga do material e número de elétrons
 
-#Explicação basica
+# Explicação basica
 
 Da compreensão das partículas subatômicas, temos que os prótons têm carga elétrica de sinal positivo (+), os elétrons, de sinal negativo (–), e os nêutrons não têm carga elétrica. Por serem mais externos, são os elétrons que se movem e podem aumentar ou diminuir de quantidade em um átomo, gerando íons, que são eletricamente carregados. Essa carga elétrica pode ser medida e, no Sistema Internacional de Unidades (SI), sua unidade é o coulomb (C) – homenagem ao engenheiro e físico francês __Charles Augustin de Coulomb (1736-1806)__, que estudou as forças elétricas.
 
