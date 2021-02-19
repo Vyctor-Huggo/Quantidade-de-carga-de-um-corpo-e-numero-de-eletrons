@@ -38,8 +38,10 @@ Para rodar o código é bem simples, você não precisa baixar nada caso não qu
 
 3. Copie __TODO O CÓDIGO!__ sem exceções para o funcionamento total do código
 
-4. Abra esse compilador online: [Compilador](https://www.onlinegdb.com/online_csharp_compiler)
+4. Abra esse compilador online: [https://www.onlinegdb.com/online_csharp_compiler](https://www.onlinegdb.com/online_csharp_compiler)
+
 Aprecerá assim para você: 
+
 ![image](https://user-images.githubusercontent.com/74301628/108441080-22f03c00-7233-11eb-8c28-1fe88a353efc.png)
 
 5. agora cole o código na areá preta __NO LUGAR DO CÓDIGO JÁ EXISTENTE__
@@ -54,5 +56,3 @@ Primeiro certifique-se que você fez todos os passos corretamente.
 
 Caso tenha feito tudo certo como instruido anteriormente veja se no canto direito superior em *Language* ou *Liguagem* está selecionado __C#__,
 caso não esteja mude para C# e tente novamente.
-Se nada disso der certo escreva um comentario no repositório com uma foto da sua tela, e alguma forma de contato 
-como Email, Discord, Telegram ou Instagram, prometo que tentarei ao maximo ver todos e ajudar.
