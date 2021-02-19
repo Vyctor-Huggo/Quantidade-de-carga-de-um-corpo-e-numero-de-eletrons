@@ -50,7 +50,7 @@ Aprecerá assim para você:
 
 7. E pronto o código será compilado pelo site e você já poderá usa-lo
 
-#Caso o código não funcione
+# Caso o código não funcione
 
 Primeiro certifique-se que você fez todos os passos corretamente.
 
