@@ -20,9 +20,16 @@ namespace Codigo
                         var CompN = Console.ReadLine().Split(delimitadores);
                         Double N = double.Parse(CompN[0]);
                         int baseN = int.Parse(CompN[1]);
-                        int ExpoN = int.Parse(CompN[2]);        
+                        int ExpoN = int.Parse(CompN[2]);  
+                        
+                        while(N >= 10)
+                        {
+                            N = N/10;
+                            ExpoN++;
+                        }      
+
                         double x = N*1.6;
-                        int y = ExpoN + -19;
+                        int y = ExpoN + (-19);
                         soluction(x, y, baseN, N, ExpoN, "case1");
                     } 
                     catch
@@ -40,7 +47,13 @@ namespace Codigo
                         Double Q = double.Parse(CompQ[0]);
                         int baseQ = int.Parse(CompQ[1]);
                         int ExpoQ = int.Parse(CompQ[2]);
-                        
+
+                        while(Q >= 10)
+                        {
+                            Q = Q/10;
+                            ExpoQ++;
+                        }
+
                         double x1 = Q/1.6;
                         int y1 = ExpoQ -(-19);
                         soluction(x1, y1, baseQ, Q, ExpoQ, "case2");
