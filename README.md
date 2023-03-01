@@ -72,3 +72,5 @@ Primeiro certifique-se que você fez todos os passos corretamente.
 
 Caso tenha feito tudo certo como instruido anteriormente veja se no canto direito superior em *Language* ou *Liguagem* está selecionado __C#__,
 caso não esteja mude para C# e tente novamente.
+
+Se nenhum desses funcionar e após analisar corretamente, me avise para que eu possa arrumar algum possível erro.
